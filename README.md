@@ -1,3 +1,5 @@
+## I developed the comprehensive project in power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+
 # HR Data-Analytics(Interactive Dashboard creating using PowerBI)
 
 ## Project Objective
